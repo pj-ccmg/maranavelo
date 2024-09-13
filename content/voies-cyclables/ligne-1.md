@@ -10,7 +10,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 
 ## Les tronçons (du Nord au Sud)
 
-### Vaulx-en-Velin Gabriel Péri à La Doua Croix-Luizet
+### De Monte à Biguglia
 
 *via Villeurbanne St-Jean*
 
