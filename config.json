@@ -1,9 +1,9 @@
 {
   "revName": {
-    "plural": "Voies Lyonnaises",
-    "singular": "Voie Lyonnaise"
+    "plural": "Marana Vélo",
+    "singular": "Marana Vélo"
   },
-  "assoName": "La Ville à Vélo",
+  "assoName": "Mobilité",
   "assoLink": "https://lavilleavelo.org",
   "slug": "voie-lyonnaise",
   "center": [
