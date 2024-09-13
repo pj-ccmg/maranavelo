@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "com-LUCCIANA",
+          "line": 2,
+          "name": "Strada di i sportivi",
+          "status": "planned",
+          "type": "bidirectionnelle",
+          "link": "/marana-velo-1"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+                9.448750556957464,
+                42.545170433371595
+            ],
+            [
+                9.448367601595436,
+                42.53866323922844
+            ]
+          ]
+        }
+      }
+  
+          
+          ]
+        }
+      
+    
+  
+  
